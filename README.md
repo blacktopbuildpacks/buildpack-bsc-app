@@ -1,2 +1,2 @@
-buildpack-bsc-app
+buildpack-vdc-app
 =================
